@@ -9,9 +9,12 @@
 - **inverted triangles**: A swarm of tracking UAVs
 - **red circle**: The center point of the swarm of tracking UAVs
   
-https://github.com/user-attachments/assets/4c8c1946-63ef-400c-8128-09f796486e9b
+https://github.com/user-attachments/assets/79201eef-12a9-443c-9134-b94108bb7625
+
+
 
 # Illustrative demo to explain the status of our implementation
 
-https://github.com/user-attachments/assets/154c38d9-80c0-457d-a017-d131eeb36c61
+https://github.com/user-attachments/assets/1c4765e2-24f7-4086-9c2d-2c2aa01c490e
+
 
