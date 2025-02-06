@@ -1,6 +1,5 @@
 # Chasing unauthorized UAVs
-### This repository contains the sources of the paper https://arxiv.org/abs/2407.16756
-
+### This repository contains the sources of the paper, https://arxiv.org/abs/2502.02689
 
 
 
